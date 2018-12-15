@@ -1,4 +1,4 @@
-User Story #1: I can see a title element that has a corresponding id="title".
+User Story #1: I can see a title element that has a corresponding id="title". OK
 User Story #2: I can see an x-axis that has a corresponding id="x-axis".
 User Story #3: I can see a y-axis that has a corresponding id="y-axis".
 User Story #4: I can see dots, that each have a class of dot, which represent the data being plotted.
